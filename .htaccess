@@ -5,7 +5,7 @@ Options -MultiViews
 AddType application/rdf+xml .rdf
 AddType text/turtle .ttl
 RewriteEngine On
-RewriteBase steamer/nuts
+RewriteBase /nuts
 
 ####################################################################################
 #                  Resource rules for web negociation                             #
